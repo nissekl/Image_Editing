@@ -8,10 +8,10 @@ Background image
 </p>
 
 Object Image
-
+<p align="center">
 <img width="460" height="300" src="https://github.com/nissekl/Image_Editing/blob/main/Test_Img/car_foreground.jpg">
 <img width="460" height="300" src="https://github.com/nissekl/Image_Editing/blob/main/Test_Img/bear.jpg">
-
+</p>
 Editing result
 
 <p align="center">
