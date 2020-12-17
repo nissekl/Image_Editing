@@ -15,7 +15,9 @@ Object Image
 
 </p>
 
+
 Editing result
+
 <p align="center">
 <img align="left" width="460" height="300" src="https://github.com/nissekl/Image_Editing/blob/main/Demo_Img/flying%20car.png">
 
